@@ -1,0 +1,34 @@
+body {
+  margin: 20px;
+  background-color: #f2b950;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+.main__wrapper {
+  left: 25px;
+  top: 25px;
+  right: 25px;
+  bottom: 25px;
+  background-color: rgba(255, 255, 255, 0.25);
+  padding: 10px;
+  box-shadow: 0 0 20px 0 rgba(89, 64, 18, 0.5), 0 5px 5px 0 rgba(38, 1, 1, 0.5);
+}
+
+h1,
+h2 {
+  font-family: "Questrial", sans-serif;
+  font-weight: bold;
+  font-stretch: condensed;
+  font-size: 400;
+  /* text-align: center; */
+}
+
+/* #c4eaf2
+#2da69a
+#594012
+#f2b950
+#bf4124 */
